@@ -148,3 +148,68 @@ nav .menu a{
     font-weight: bold;
     color: #474747;
 }
+.skill-info h1{
+    padding-top: 130px;
+    
+    text-align: center;
+    margin: 0 auto;
+    color: #181818;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 30px;
+
+}
+.skill-info p{
+    margin: 0 auto;
+    width: 827px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+    color: #757575;
+    
+
+
+}
+.skill-container {
+    display: flex;
+    padding-top: 50px;
+    gap: 54px;
+    margin: 0 auto;
+    justify-content: center;
+    width: 71%;
+    max-width: 1140px;
+    
+
+}
+.skill-box {
+    padding: 30px;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    
+  box-shadow: 0 6px 50px #0000003d;
+}
+
+
+}
+.skill-box img{
+  
+    width: 44px;
+    padding-bottom: 30px;
+}
+.skill-box h3{
+    width: 174px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 400px;
+    color: #181818 ;
+}
+.skill-box p{
+    width: 201px;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 28px;
+    color: #757575;
+    
+    
+}
